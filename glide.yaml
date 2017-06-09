@@ -1,0 +1,5 @@
+package: github.com/sys-cat/ParallelLogging
+import:
+- package: github.com/labstack/echo
+  subpackages:
+  - middleware
